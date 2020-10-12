@@ -13,7 +13,7 @@ Course project
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/projects/run_analysis.R "run_analysis.R")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/CarineLourencoAlves/Data-Science-John-Hopckins--Getting-and-cleaning-data--Course-project/blob/main/run_analysis.R "run_analysis.R")
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/mGalarnyk/datasciencecoursera/blob/master/3_Getting_and_Cleaning_Data/data/tidyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/CarineLourencoAlves/Data-Science-John-Hopckins--Getting-and-cleaning-data--Course-project)
 README | ReadingItNow |  [Repo Link](https://github.com/CarineLourencoAlves/Data-Science-John-Hopckins--Getting-and-cleaning-data--Course-project/edit/main/README.md)
